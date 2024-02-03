@@ -493,6 +493,44 @@ transform-style:preserve-3d;
 	0 0 400px rgba(0,255,0,0.8),
 	0 0 500px rgba(0,255,0,1),
 }
+ .viewer-container {
+      background-color: black;
+      padding: 5px;
+      border-radius: 2px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .viewer-count {
+      font-size: 24px;
+      font-weight: bold;
+      color: #ffffff;
+    }
+    .testimonials-container {
+	 background-color: #f5f5f5;
+      max-width: 800px;
+    margin: 50px auto;
+    }
+
+.testimonial {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.testimonial cite {
+    font-style: italic;
+    color: #555;
+}
+
+
 	
 
 
