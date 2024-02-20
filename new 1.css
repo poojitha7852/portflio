@@ -524,9 +524,7 @@ transform-style:preserve-3d;
     line-height: 1.6;
     margin-bottom: 10px;
 }
-.testimonial p:hover{
-	background:cyan;
-}
+
 .testimonial cite {
     font-style: italic;
     color: #555;
